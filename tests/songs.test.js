@@ -318,5 +318,4 @@ describe('function "getLongestSong"', () => {
     });
 });
 
-//Exercise 8
-//Write the getShortestSong() test
+getShortestSong(); 
